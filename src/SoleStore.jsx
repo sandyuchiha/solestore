@@ -1696,7 +1696,7 @@ function HomePage() {
         <div style={{position:"relative",maxWidth:520}}>
           <div style={{display:"inline-flex",alignItems:"center",gap:7,background:C.s2,border:`1px solid ${C.border}`,borderRadius:7,padding:"4px 12px",marginBottom:18}}>
             <div style={{width:5,height:5,borderRadius:"50%",background:C.gold}}/>
-            <span style={{fontSize:10,color:C.muted,letterSpacing:2,textTransform:"uppercase"}}>New Collection 2024</span>
+            <span style={{fontSize:10,color:C.muted,letterSpacing:2,textTransform:"uppercase"}}>New Collection 2026</span>
           </div>
           <h1 className="syne fu1" style={{fontSize:66,fontWeight:800,lineHeight:.88,marginBottom:18}}>
             STEP INTO<br/><span style={{color:C.gold}}>GREATNESS</span>
